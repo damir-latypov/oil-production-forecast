@@ -96,7 +96,7 @@ python oil_production_forecast.py
 bash
 python run_project.py
 👨‍💻 Автор
-Ваше Имя - Data Scientist с экспертизой в нефтегазовой отрасли
+Дамир Латыпов - Data Scientist с экспертизой в нефтегазовой отрасли
 
 https://img.shields.io/badge/LinkedIn-%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F-blue
 https://img.shields.io/badge/Email-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-red
